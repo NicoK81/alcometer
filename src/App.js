@@ -21,7 +21,6 @@ function App() {
   if(gender === 'female') result = gramsleft / (weight * 0.6)
 
   
-  }
   setResult(result)
  }
   
